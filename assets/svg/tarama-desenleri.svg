@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" aria-hidden="true" focusable="false" style="position:absolute"><defs>
+<pattern id="tarama-45" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 6L6 0M-1 1L1-1M5 7L7 5" fill="none" stroke="currentColor" stroke-width="1"/></pattern>
+<pattern id="tarama-capraz" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 0L8 8M8 0L0 8M-1 1L1-1M7 9L9 7M-1 7L1 9M7-1L9 1" fill="none" stroke="currentColor" stroke-width="1"/></pattern>
+<pattern id="tarama-yatay" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 3H6" fill="none" stroke="currentColor" stroke-width="1"/></pattern>
+<pattern id="nokta-dither" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r=".75" fill="currentColor"/><circle cx="4.5" cy="4.5" r=".75" fill="currentColor"/></pattern>
+</defs></svg>

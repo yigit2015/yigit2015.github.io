@@ -1,0 +1,7 @@
+# Yayına girmeyenler: kaynak dosyalar, referans görseller (üçüncü kişilerin işleri), ham çıktılar
+kaynak/
+*.blend
+*.blend1
+Thumbs.db
+desktop.ini
+.DS_Store

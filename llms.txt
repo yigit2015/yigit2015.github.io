@@ -1,0 +1,15 @@
+# Yiğit Doğantekin
+
+> Entry-level AI automation and prompt design practitioner in Balıkesir, Türkiye. Turns ideas into shipped products by directing AI agents (Claude Code, multi-agent workflows).
+
+- GitHub: https://github.com/yigit2015
+- CV (EN): https://yigit2015.github.io/cv/yigit-dogantekin-cv-en.pdf
+- CV (TR): https://yigit2015.github.io/cv/yigit-dogantekin-cv-tr.pdf
+
+## Selected work
+- [Kıvılcım](https://yigit2015.github.io/en/work/kivilcim/): gamified habit tracker; product owner; 200-item roadmap in 10 phases, 189 items completed; 236 unit tests plus browser end-to-end tests; released on GitHub for Android, Windows, macOS, Linux and web.
+- [Jev BIST bot](https://yigit2015.github.io/en/work/jev/): Python bot that has an AI model read Borsa Istanbul disclosures (KAP) and produce signals; backtested on 1,628 disclosures; paper (simulation) mode only, sends no real orders.
+- [Akış](https://yigit2015.github.io/en/work/akis/): single-file budgeting web app built around entering an expense in 2 taps, defined in the "Zero Friction" spec.
+
+## Turkish
+- [Ana sayfa](https://yigit2015.github.io/): Türkçe sürüm.
